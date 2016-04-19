@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         info = "Industry :\tComputer hardware , Computer software , Consumer electronics , Digital distribution\n";
         info += "Founded :\tApril 1, 1976\n";
         info += "Founders :\t" + "Steve Jobs , " + "Steve Wozniak , " + "Ronald Wayne\n";
-        info += "Headquarters :\tApple Campus, Cupertino, California, U.S.";
+        info += "Headquarters :\tApple Campus, Cupertino, California, U.S.\n";
         info += "Products :\t" + "Mac , iPod , iPhone , iPad , Apple Watch , Apple TV , OS X , iOS , watchOS , iLife , iWork\n";
         info += "Website :\twww.apple.com";
         TextView apple_info = (TextView) findViewById(R.id.appleInfo);
